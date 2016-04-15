@@ -1,0 +1,17 @@
+GWIGaming A3Wasteland series for Altis
+Initial Release - 19 March 2016 
+
+Core Mission - A3Wasteland by Team Wasteland
+
+Fork from TOPArma.com
+
+Removed - DLC Weapons from Gun Stores for balance. They can be found as mission rewards
+Removed - Attack Helicopters from Vehicle Stores for balance. Blackfoots and Kajimans removed 
+completely. Other ones can be found as mission rewards. 
+Removed - Titan Launchers from the Gun Stores. They can be found as mission rewards
+Removed - All airplanes except for AA plane from vehicle store. 
+Changed - Last Resort will no longer work with a explosive charge. It requires a satchel to perform your duty. 
+Changed - Gut feature is now the kill feature. It is instant. 
+Added - New sounds for last resort. 
+
+
